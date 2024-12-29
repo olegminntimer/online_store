@@ -7,10 +7,10 @@
 ## Установка:
 
 1. Клонируйте репозиторий:
-```
-git clone https://github.com/olegminntimer/online_store.git
-```
-1. Установите зависимости:
+ ```
+ git clone https://github.com/olegminntimer/online_store.git
+ ```
+2. Установите зависимости:
 ```
 poetry install
 ```
